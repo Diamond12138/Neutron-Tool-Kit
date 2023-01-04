@@ -6,4 +6,4 @@
 
 对Font进行了一些修改
 
-增加了OrthoProjection和FrutumProjection
+增加了OrthoProjection和FrustumProjection
