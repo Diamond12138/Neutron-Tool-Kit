@@ -4,4 +4,4 @@
 
 名字是随便取的
 
-此仓库将会被搬迁到一个新的仓库
+此仓库将会被搬迁到一个新的仓库：https://github.com/Neutron12138/Neutron-Tool-Kit
